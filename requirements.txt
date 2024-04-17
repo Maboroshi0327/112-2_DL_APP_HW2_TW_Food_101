@@ -1,0 +1,6 @@
+tensorflow==2.9.3
+pillow==10.2.0
+scipy==1.12.0
+matplotlib==3.8.3
+opencv-python==4.9.0.80
+visualkeras==0.0.2
